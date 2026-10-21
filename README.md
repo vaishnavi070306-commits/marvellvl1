@@ -30,33 +30,51 @@ I explored the construction of a Sierpinski Triangle using repeated geometric di
 
 ### 6. 3D Drafting Task 1 — Allen Key
 I worked on understanding how to model an Allen key in Fusion 360 using the specified dimensions of 55 mm length, 20 mm width and 3 mm size. The process involved creating the required sketch geometry and applying dimensions before developing the 3D shape. I learned how sketch constraints help maintain dimensional accuracy. This task demonstrated how a simple mechanical tool can be represented as a CAD model and engineering drawing.
+<img width="1352" height="702" alt="Screenshot 2026-10-21 212237" src="https://github.com/user-attachments/assets/63c66889-7cb2-4019-b2a3-7039ba73a542" />
+
 
 ### 7. 3D Drafting Task 2 — Machine Components
 I explored how to create three-dimensional models of machine components using the reference drawings provided. I learned to interpret dimensions and develop geometry using features such as extrude, hole, fillet and chamfer. Breaking complex shapes into simpler features made the modelling process easier to understand. This task highlighted the importance of dimensional accuracy in mechanical design.
 
+<img width="1035" height="690" alt="Screenshot 2026-10-21 211813" src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" />
+
+<img width="940" height="707" alt="Screenshot 2026-10-21 211700" src="https://github.com/user-attachments/assets/04f2f649-a884-4822-87ff-4a73d950eb69" />
+
+
+
 ### 8. Solid Modelling — NACA Aerofoil
 I explored the modelling of an aerofoil profile for an HTOL aircraft using Fusion 360 and an appropriate NACA profile tool. I learned about the leading edge, trailing edge, chord line and camber line of an aerofoil. Using a defined profile helps maintain geometric accuracy compared with drawing the shape manually. This task introduced me to the application of CAD in aerodynamic component design.
+<img width="1082" height="605" alt="Screenshot 2026-10-21 212355" src="https://github.com/user-attachments/assets/eb30e7e5-e725-4409-bd8b-64bf5e90eaad" />
 
 ### 9. Surface Modelling — Toroidal Propeller
 I explored the design of a toroidal propeller intended for use with a 1000 kV brushless DC (BLDC) motor. The task introduced me to complex curved geometry and the use of freeform modelling tools in Fusion 360. I learned how a continuous looped blade arrangement differs geometrically from a conventional propeller. I also understood that structural strength, balance and motor compatibility are important considerations in propeller design.
+<img width="940" height="707" alt="Screenshot 2026-10-21 211700" src="https://github.com/user-attachments/assets/fe542a20-503f-4328-8df8-f39b762087b9" />
+
 
 ### 10. Sheet-Metal Design — MARVEL Postbox
 I explored the design of a postbox using Fusion 360's Sheet Metal workspace, with a specified sheet thickness of 1 mm and height of 1 ft. I learned how thin sheets can be shaped using bends and folds to create a functional enclosure. The design also required consideration of the letter opening, storage space and overall usability. This task introduced me to sheet-metal design principles and material-efficient product development.
 
 ### 11. Organic Design — Hollow Vase
 I explored organic modelling in Fusion 360 to understand how smooth, curved shapes can be developed using the Form environment. The specified dimensions were a base width or diameter of 70 mm, an aperture of 55 mm and a wall thickness of 2 mm. I learned how freeform geometry helps create smooth transitions between different sections of a design. This task demonstrated the importance of balancing aesthetics, dimensions and wall thickness.
+<img width="1020" height="667" alt="Screenshot 2026-10-21 212020" src="https://github.com/user-attachments/assets/da9de569-79fc-4a41-8d69-7e52893f23ef" />
+
 
 ### 12. Assembly Prerequisites — Bodies and Components
 I learned the difference between bodies and components in Fusion 360 and how each is used to organize a design. Bodies represent geometry, whereas components help represent individual parts that can be positioned and moved independently. I understood why mechanisms require separate components for parts such as cranks, connecting rods and sliders. This knowledge is essential for creating assemblies with correct joints and motion.
 
 ### 13. Assembly and Animation — Mechanical Mechanism
 I explored how individual mechanical components are assembled using appropriate joints in Fusion 360. I learned how revolute joints represent rotational movement and slider joints represent linear movement. I also understood how joint constraints control degrees of freedom and define the motion of a mechanism. Animation and motion studies help visualize the mechanism's operation and identify incorrect movement relationships.
-
+<img width="992" height="705" alt="Screenshot 2026-08-28 055537" src="https://github.com/user-attachments/assets/80e63e4f-e9bd-4d07-853f-68ec6fafafbd" />
 ### 14. Spur Gear Design
 I studied the design of a spur gear pair with a 20-tooth input gear and a 40-tooth output gear, giving a gear ratio of 2:1. The specified module was 3 mm, the pressure angle was 20°, and steel was the specified material. I learned how tooth count and module determine the pitch diameter and centre distance of meshing gears. This task helped me understand how spur gears transmit rotational motion between parallel shafts.
+<img width="1917" height="788" alt="Screenshot 2026-10-21 112721" src="https://github.com/user-attachments/assets/505becfd-cc82-4da8-8f04-c9c9ae214e9b" />
+
 
 ### 15. Parametric Design — Box
 I explored parametric modelling by creating a box whose geometry could be controlled through dimensions and design parameters. I learned how modifying parameters such as length, width, height and wall thickness can update the model without rebuilding it from scratch. I also understood the importance of maintaining geometric constraints and logical feature relationships. This task demonstrated how parametric design makes CAD models easier to modify and reuse.
+<img width="1242" height="688" alt="Screenshot 2026-10-21 214543" src="https://github.com/user-attachments/assets/5edefae0-f4df-422a-afde-7f65e35438ba" />
+<img width="1406" height="1119" alt="Open Hinged Box on CAD Grid" src="https://github.com/user-attachments/assets/a525b229-33d0-4631-91f1-da3804fde58a" />
+
 
 ---
 
