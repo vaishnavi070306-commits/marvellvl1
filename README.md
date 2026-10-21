@@ -14,6 +14,17 @@ I studied orthographic and isometric projections to understand how three-dimensi
 ### 4. Generating 2D Drawings in CAD
 I explored the process of creating two-dimensional engineering drawings using CAD tools. I learned to construct geometric profiles, apply dimensions and use constraints to maintain accuracy. I also understood the importance of line types, alignment and clear dimensioning. These concepts helped me understand how drawings communicate manufacturing requirements.
 
+
+
+
+
+<img width="1192" height="651" alt="Screenshot 2026-10-21 205423" src="https://github.com/user-attachments/assets/c96c4e1e-a3a7-4b5a-b5dc-e19ee5616239" />
+<img width="1222" height="593" alt="Screenshot 2026-10-21 203221" src="https://github.com/user-attachments/assets/7d528cec-360e-419c-898c-887c0d00575f" />
+<img width="1288" height="720" alt="Screenshot 2026-10-21 201940" src="https://github.com/user-attachments/assets/62353516-d55d-4039-a243-aa2372542ef3" />
+<img width="1332" height="737" alt="Screenshot 2026-10-21 201805" src="https://github.com/user-attachments/assets/41c3f966-2f32-4aa0-ae7c-a67241a67175" />
+<img width="1328" height="640" alt="Screenshot 2026-10-21 201201" src="https://github.com/user-attachments/assets/2bab4cf5-3535-4f62-9818-a8005fa10e0a" />
+
+
 ### 5. 2D Drafting — Sierpinski Triangle
 I explored the construction of a Sierpinski Triangle using repeated geometric divisions. The pattern is based on self-similarity, where smaller triangular shapes reproduce the structure of the larger triangle. I learned how repeated geometric operations can create complex patterns from simple shapes. This task improved my accuracy and understanding of geometric construction.
 
