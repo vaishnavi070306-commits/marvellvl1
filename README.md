@@ -38,7 +38,8 @@ I explored how to create three-dimensional models of machine components using th
 
 <img width="1035" height="690" alt="Screenshot 2026-10-21 211813" src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" />
 
-<img width="940" height="707" alt="Screenshot 2026-10-21 211700" src="https://github.com/user-attachments/assets/04f2f649-a884-4822-87ff-4a73d950eb69" />
+<img width="1243" height="625" alt="Screenshot 2026-10-21 212549" src="https://github.com/user-attachments/assets/4c58b72b-95a5-4b28-bdd3-884045fced56" />
+
 
 
 
