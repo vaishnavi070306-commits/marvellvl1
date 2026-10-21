@@ -83,20 +83,13 @@ I explored the assembly of mechanical parts using joints and motion tools in Fus
 
 I studied the design of a spur gear pair with a 20-tooth input gear and a 40-tooth output gear. The specified module was 3 mm, the pressure angle was 20°, and steel was the specified material. The gear ratio was calculated from the tooth counts:
 
-\[
-i=\frac{Z_2}{Z_1}=\frac{40}{20}=2
-\]
+Gear ratio: i = Z₂/Z₁ = 40/20 = 2:1
 
-The pitch diameters were determined using \(d=mZ\):
+Pitch diameter: d = mZ
+- Input: d₁ = 3 × 20 = 60 mm
+- Output: d₂ = 3 × 40 = 120 mm
 
-- Input gear: \(d_1=3\times20=60\text{ mm}\)
-- Output gear: \(d_2=3\times40=120\text{ mm}\)
-
-For standard external spur gears, the theoretical centre distance is:
-
-\[
-a=\frac{d_1+d_2}{2}=90\text{ mm}
-\]
+Centre distance: a = (d₁ + d₂)/2 = 90 mm
 
 I learned how the module determines tooth size and how the tooth-count ratio affects rotational speed and torque. Ideally, the output gear rotates at half the input speed, with increased torque before accounting for losses.
 
