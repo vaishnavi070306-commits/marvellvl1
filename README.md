@@ -63,6 +63,19 @@ I explored organic modelling in Fusion 360 to understand how smooth, curved shap
 ### 12. Assembly Prerequisites — Bodies and Components
 I learned the difference between bodies and components in Fusion 360 and how each is used to organize a design. Bodies represent geometry, whereas components help represent individual parts that can be positioned and moved independently. I understood why mechanisms require separate components for parts such as cranks, connecting rods and sliders. This knowledge is essential for creating assemblies with correct joints and motion.
 
+### 1. Bodies
+
+Bodies are the 3D shapes created in Fusion 360 using tools like Extrude and Revolve. They are used to form the geometry of a part.
+
+### 2. Components
+
+Components are individual parts or groups of parts used in an assembly. They can be connected using joints to allow movements such as rotation or sliding.
+
+### 3. Difference
+
+A body defines the shape of a part, while a component helps organise it for assembly. For example, in a gear mechanism, each gear can be a separate component so that it can rotate independently of the other parts.
+
+
 ### 13. Assembly and Animation — Mechanical Mechanism
 I explored how individual mechanical components are assembled using appropriate joints in Fusion 360. I learned how revolute joints represent rotational movement and slider joints represent linear movement. I also understood how joint constraints control degrees of freedom and define the motion of a mechanism. Animation and motion studies help visualize the mechanism's operation and identify incorrect movement relationships.
 <img width="992" height="705" alt="Screenshot 2026-08-28 055537" src="https://github.com/user-attachments/assets/80e63e4f-e9bd-4d07-853f-68ec6fafafbd" />
