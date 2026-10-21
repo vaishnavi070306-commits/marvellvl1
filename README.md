@@ -43,7 +43,8 @@ I developed 3D models of machine components using the provided reference drawing
 
 <img src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" width="420" alt="Machine component model"/>
 
-<img src="https://github.com/user-attachments/assets/4c58b72b-95a5-4b28-bbdd-3c884045fced" width="480" alt="Machine component CAD exercise"/>
+<img width="1243" height="625" alt="Screenshot 2026-10-21 212549" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" />
+
 
 <img src="https://github.com/user-attachments/assets/26c4e7c6-1c53-4a72-890f-5d151e584fa6" width="480" alt="3D component modelling exercise"/>
 
@@ -51,7 +52,8 @@ I developed 3D models of machine components using the provided reference drawing
 
 I explored the modelling of an aerofoil profile for an HTOL aircraft using Fusion 360 and a NACA profile tool. I learned about the leading edge, trailing edge, chord line and camber line, which define important aspects of aerofoil geometry. Using a defined NACA profile allows the shape to be generated from established geometric parameters rather than approximated manually. This exercise introduced me to the use of CAD in aerodynamic component design.
 
-<img src="https://github.com/user-attachments/assets/eb30e7e5-725e-4409-bd8b-64bf5e90eaad" width="480" alt="NACA aerofoil model"/>
+<img width="1082" height="605" alt="Screenshot 2026-10-21 212355" src="https://github.com/user-attachments/assets/575b287a-fbc4-49c8-b8d8-a37571d67eee" />
+
 
 ### 9. Surface Modelling — Toroidal Propeller
 
