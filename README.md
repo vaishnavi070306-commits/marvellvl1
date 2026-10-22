@@ -55,12 +55,12 @@ I modelled an Allen key in Fusion 360 using the specified dimensions of 55 mm le
 
 I developed 3D models of machine components using the provided reference drawings and dimensions. The geometry was constructed using sketch profiles and features such as Extrude, Hole, Fillet and Chamfer. I learned how individual features can be combined to reproduce stepped surfaces, cylindrical sections, holes and edges. Following the reference dimensions was essential for maintaining the proportions and geometric accuracy of the models.
 
-<img src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" width="420" alt="Machine component model"/>
+<img src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" width="500" alt="Machine component model"/>
 
-<img width="420" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" alt="CAD model" />
+<img width="500" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" alt="CAD model" />
 
 
-<img src="https://github.com/user-attachments/assets/26c4e7c6-1c53-4a72-890f-5d151e584fa6" width="480" alt="3D component modelling exercise"/>
+<img src="https://github.com/user-attachments/assets/26c4e7c6-1c53-4a72-890f-5d151e584fa6" width="500" alt="3D component modelling exercise"/>
 
 ### 8. Solid Modelling — NACA Aerofoil
 
