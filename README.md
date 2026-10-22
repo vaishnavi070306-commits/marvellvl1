@@ -4,10 +4,13 @@
 ### 1. Introduction to CAD
 
 Computer-Aided Design (CAD) is used to create, modify and analyse engineering models digitally before manufacturing. I learned how sketches, dimensions, geometric constraints and 3D modelling operations are used to develop accurate components. I also understood the role of parametric modelling, where changes to dimensions update the associated geometry. CAD helps reduce manual drafting effort and improves design accuracy during product development.
+<img width="736" height="921" alt="WhatsApp Image 2026-10-22 at 6 07 52 AM" src="https://github.com/user-attachments/assets/ce436437-0dae-4e57-a1f7-2731ad012d2d" />
+
 
 ### 2. Autodesk Fusion 360
 
 I explored the Fusion 360 interface and its design environments, including Solid, Surface, Sheet Metal, Form and Assembly tools. I learned how 2D sketches are converted into 3D geometry using operations such as Extrude, Revolve, Sweep and Loft. The software also supports joints, motion studies, technical drawings and parameter-driven modifications, making it useful for modelling individual components as well as complete mechanical systems.
+<img width="1280" height="800" alt="autodesk_fusion_360_logo-freelogovectors net_" src="https://github.com/user-attachments/assets/38f1f841-5fd5-4f5e-bce9-1b09b1112cc2" />
 
 ### 3. Engineering Drawing — Orthographic Projections
 
