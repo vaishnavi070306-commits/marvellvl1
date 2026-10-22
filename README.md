@@ -43,7 +43,7 @@ I developed 3D models of machine components using the provided reference drawing
 
 <img src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" width="420" alt="Machine component model"/>
 
-<img width="250" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" alt="CAD model" />
+<img width="420" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" alt="CAD model" />
 
 
 <img src="https://github.com/user-attachments/assets/26c4e7c6-1c53-4a72-890f-5d151e584fa6" width="480" alt="3D component modelling exercise"/>
