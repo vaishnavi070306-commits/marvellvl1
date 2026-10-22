@@ -19,7 +19,8 @@ I explored the Fusion 360 interface and its design environments, including Solid
 ### 3. Engineering Drawing — Orthographic Projections
 
 I studied orthographic  projections to represent three-dimensional components through engineering drawings. Orthographic projection uses front, top and side views to communicate dimensions, holes, profiles and other geometric features.I learned how these views complement each other in communicating component geometry and manufacturing requirements.
-[link](https://github.com/vaishnavi070306-commits/marvellvl1/blob/vaishnavi070306-commits-patch-1/WhatsApp%20Image%202026-10-22%20at%206.18.52%20AM.jpeg)
+
+[Link](https://github.com/vaishnavi070306-commits/marvellvl1/blob/vaishnavi070306-commits-patch-1/WhatsApp%20Image%202026-10-22%20at%206.18.52%20AM.jpeg)
 
 ### 4. Generating 2D Drawings in CAD
 
