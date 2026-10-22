@@ -4,8 +4,9 @@
 ### 1. Introduction to CAD
 
 Computer-Aided Design (CAD) is used to create, modify and analyse engineering models digitally before manufacturing. I learned how sketches, dimensions, geometric constraints and 3D modelling operations are used to develop accurate components. I also understood the role of parametric modelling, where changes to dimensions update the associated geometry. CAD helps reduce manual drafting effort and improves design accuracy during product development.
-<img width="300" src="https://github.com/user-attachments/assets/ce436437-0dae-4e57-a1f7-2731ad012d2d" alt="WhatsApp Image" />
 
+
+<img width="300" src="https://github.com/user-attachments/assets/ce436437-0dae-4e57-a1f7-2731ad012d2d" alt="WhatsApp Image" />
 
 
 
