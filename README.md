@@ -43,7 +43,7 @@ I developed 3D models of machine components using the provided reference drawing
 
 <img src="https://github.com/user-attachments/assets/de196a7b-f5fb-4f92-804a-9936b6debfcc" width="420" alt="Machine component model"/>
 
-<img width="420" height="420" alt="Screenshot 2026-10-21 212549" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" />
+<img width="250" src="https://github.com/user-attachments/assets/3e12dcdd-b01b-4003-b6b7-193814cb4ec9" alt="CAD model" />
 
 
 <img src="https://github.com/user-attachments/assets/26c4e7c6-1c53-4a72-890f-5d151e584fa6" width="480" alt="3D component modelling exercise"/>
@@ -61,23 +61,21 @@ I explored the modelling of a toroidal propeller intended for use with a 1000 kV
 
 <img src="https://github.com/user-attachments/assets/fe542a20-503f-4328-8df8-f39b762087b9" width="420" alt="Toroidal propeller CAD model"/>
 
-### 10. Sheet-Metal Design — MARVEL Postbox
-
-I explored the design of a postbox using Fusion 360's Sheet Metal workspace, with a specified sheet thickness of 1 mm and height of 1 ft (304.8 mm). The model required consideration of the enclosure geometry, bends, folds, letter opening and internal storage space. I learned how sheet-metal features maintain a constant material thickness while allowing a flat sheet to be formed into a three-dimensional component. The design also introduced me to the importance of bend geometry and manufacturability.
-
 ### 11. Organic Design — Hollow Vase
 
-I explored organic modelling using Fusion 360's Form environment to create a hollow vase with smooth transitions between its surfaces. The specified dimensions were a base diameter of 70 mm, an aperture diameter of 55 mm and a wall thickness of 2 mm. I learned how freeform surface manipulation can produce curved profiles that are difficult to create using only conventional solid features. The wall thickness and opening dimensions were important in defining the final geometry.
+After exploring organic modelling in Fusion 360's Form environment, I understood how freeform modelling can be used to create smooth, curved shapes like a hollow vase. The specified dimensions were a base diameter of 70 mm, an aperture diameter of 55 mm and a wall thickness of 2 mm. I learned how adjusting the form helps create the curved profile and how the opening and wall thickness affect the final shape. Initially, I found this approach different from regular solid modelling, as the shape had to be controlled by adjusting its surfaces rather than relying only on sketches and extrusions. This task helped me understand how Fusion 360 can be used to create organic designs while still following specific dimensions.
 
 <img src="https://github.com/user-attachments/assets/da9de569-79fc-4a41-8d69-7e52893f23ef" width="420" alt="Hollow vase CAD model"/>
 
 ### 12. Assembly Prerequisites — Bodies and Components
 
-I learned the distinction between bodies and components in Fusion 360. A body represents continuous solid or surface geometry, whereas a component acts as an independent part or subassembly within a design. Components can be positioned and connected using joints, allowing their relative movement to be defined. For example, gears, cranks and connecting rods should generally be organised as separate components when they need to move independently. This distinction is important for building assemblies and simulating mechanical motion.
+After exploring bodies and components in Fusion 360, I understood that bodies are mainly used to create the shapes of a model, whereas components are useful when I want to treat different parts independently in an assembly. Initially, I thought both were almost the same, but I realised that the main difference is how they are organised and used when parts need to move or connect with each other. I also learned that naming each body and component properly makes the design easier to understand, especially when working with multiple parts. Creating separate components from the beginning seems like a better approach because it makes adding joints and controlling movement much easier later.
+
 
 ### 13. Assembly and Animation — Mechanical Mechanism
 
 I explored the assembly of mechanical parts using joints and motion tools in Fusion 360. Revolute joints permit rotation about a defined axis, while slider joints permit linear translation along a specified direction. I learned that joints restrict unwanted degrees of freedom and establish the intended movement between components. Motion studies and animation can then be used to observe the mechanism's operation and identify incorrect joint relationships or interference between moving parts.
+After studying the quick return mechanism, I understood how rotary motion is converted into reciprocating motion, with the return stroke taking less time than the forward stroke. This mechanism is commonly used in shaping and slotting machines to reduce idle time and improve machining efficiency. I learned how the arrangement of links and joints controls the movement of the ram and creates the difference in stroke times.
 
 <img src="https://github.com/user-attachments/assets/80e63e4f-e9bd-4d07-853f-68ec6fafafbd" width="480" alt="Mechanical mechanism assembly"/>
 
@@ -99,7 +97,7 @@ I learned how the module determines tooth size and how the tooth-count ratio aff
 
 ### 15. Parametric Design — Box
 
-I explored parametric modelling by creating a box whose dimensions were controlled by design parameters. Parameters such as length, width, height and wall thickness can be modified to update the model without recreating its geometry. I learned how sketches, constraints and feature dependencies work together to maintain the design intent when dimensions change. This approach is useful for developing adjustable components and reusable models.
+After working on the parametric box in Fusion 360, I understood how dimensions and parameters can be used to control the geometry of a model. Instead of manually changing individual features, I learned that parameters such as length, width, height and wall thickness can be modified to update the design. I also explored how sketches, constraints and modelling features work together to maintain the intended shape when dimensions change. This helped me understand the importance of planning the model before creating it, as poorly defined constraints can cause unexpected changes in geometry. I found parametric modelling useful because it makes the design easier to modify, saves time when creating different sizes of the same component and reduces the need to rebuild the model from scratch. This approach is particularly useful when designing enclosures, boxes and other mechanical parts that require frequent dimensional changes.
 
 <img src="https://github.com/user-attachments/assets/5edefae0-f4df-422a-afde-7f65e35438ba" width="480" alt="Parametric box model"/>
 
